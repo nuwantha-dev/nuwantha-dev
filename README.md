@@ -30,7 +30,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <br>
-<img align="right" height="250px" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXh6OHZ5ZHc4cm5obXl5emNjMnB5aHltcDUzbWlmcmtiNnFlZjhwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wfqug5nurY6a7WAq1p/giphy.gif"  />
+<img align="right" height="280px" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXh6OHZ5ZHc4cm5obXl5emNjMnB5aHltcDUzbWlmcmtiNnFlZjhwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wfqug5nurY6a7WAq1p/giphy.gif"  />
 
 - 👷 Working on:
 Enhancing Full Stack Development skills.
