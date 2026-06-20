@@ -38,9 +38,6 @@ Enhancing Full Stack Development skills.
 - 🧑‍🤝‍🧑 Collaborating on:
 Full Stack and UI/UX projects.
 
-- 🤝 Need help with:
-Advanced Python and JavaScript frameworks.
-
 - 🌱 Learning:
 Java, HTML, CSS, JavaScript, Python.
 
@@ -48,7 +45,7 @@ Java, HTML, CSS, JavaScript, Python.
 UI/UX design, Java, Full Stack Development.
 
 - ⚡ Fun fact:
-Nickname: H, my gaming alias!
+Nickname: Hyper, my gaming alias!
 <br>
 <br>
 
